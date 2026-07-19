@@ -90,6 +90,8 @@ Linux
 
 Anubrat Singh
 
+Manasvi
+
 Bharat Shahi
 
 4th Year (CSE-AI) Engineering
