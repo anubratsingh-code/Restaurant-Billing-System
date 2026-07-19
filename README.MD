@@ -89,7 +89,10 @@ Linux
 ## Developed By
 
 Anubrat Singh
+Manasvi
+Aman Kumar Chaudhary
+Bharat Shahi
 
-4th Year Engineering
+4th Year (CSE-AI) Engineering
 
 Mini Project - C Programming
