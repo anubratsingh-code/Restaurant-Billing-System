@@ -89,6 +89,7 @@ Linux
 ## Developed By
 
 Anubrat Singh
+Bharat Shahi
 
 4th Year (CSE-AI) Engineering
 
